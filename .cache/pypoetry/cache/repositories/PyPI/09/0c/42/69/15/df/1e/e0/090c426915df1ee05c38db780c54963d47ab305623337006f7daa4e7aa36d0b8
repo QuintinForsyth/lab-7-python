@@ -1,0 +1,1 @@
+9999999999{"name": "tensorflow-estimator", "version": "2.14.0", "summary": "TensorFlow Estimator.", "requires_dist": null, "requires_python": ">=3.7", "files": [{"file": "tensorflow_estimator-2.14.0-py2.py3-none-any.whl", "hash": "sha256:820bf57c24aa631abb1bbe4371739ed77edb11361d61381fd8e790115ac0fd57"}], "yanked": false, "_cache_version": "2.0.0"}
